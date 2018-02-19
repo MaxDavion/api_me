@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "petshop.yaml",
+    "name": "PetShop",
+    "repo": "MaxDavion/api_me",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
