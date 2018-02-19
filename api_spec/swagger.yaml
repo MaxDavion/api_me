@@ -2,7 +2,7 @@
 swagger: '2.0'
 info:
   version: 9.9.9
-  title: Faker API2
+  title: Faker New For Me  API2
 paths:
   /:
     get:
